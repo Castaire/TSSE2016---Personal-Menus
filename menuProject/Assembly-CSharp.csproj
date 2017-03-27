@@ -45,7 +45,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\bringForth.cs" />
+     <Compile Include="Assets\Scripts\bringForth.cs" />
+     <Compile Include="Assets\Scripts\dragHandler.cs" />
+     <Compile Include="Assets\Scripts\holder.cs" />
+     <Compile Include="Assets\Scripts\logicDump.cs" />
+     <Compile Include="Assets\Scripts\makePop.cs" />
+     <Compile Include="Assets\Scripts\slider.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

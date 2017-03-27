@@ -21,3 +21,26 @@ C:\Users\Castaire\Desktop\fuckMenus\menuProject\Temp\bin\Debug\UnityEngine.Netwo
 C:\Users\Castaire\Desktop\fuckMenus\menuProject\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\Castaire\Desktop\fuckMenus\menuProject\obj\Debug\Assembly-CSharp.dll
 C:\Users\Castaire\Desktop\fuckMenus\menuProject\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\obj\Debug\Assembly-CSharp.dll
+C:\Users\Castaire\Desktop\FUCKMENUS [complete]\menuProject\obj\Debug\Assembly-CSharp.pdb
