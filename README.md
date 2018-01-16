@@ -1,4 +1,7 @@
 # TSSE2016 Personal Menus
+## About
+This is a stand-alone project consisting of different user interfaces I have contributed to the TSSE2016 project!
 
-Hello! This is a stand-alone project consisting of menus I have contributed to the TSSE2016 project.
-Please watch out for profanities! 
+## Material
+- Unity / C#
+
