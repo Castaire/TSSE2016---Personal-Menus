@@ -2,6 +2,6 @@
 ## About
 This is a stand-alone project consisting of different user interfaces I have contributed to the TSSE2016 project!
 
-## Material
+## Materials
 - Unity / C#
 
